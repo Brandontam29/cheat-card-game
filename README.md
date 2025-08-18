@@ -1,7 +1,7 @@
 # Cheat Card Game
 Commonly known as "Cheat" or "Bullshit." It is a fun and fast-paced game played with a standard deck of playing cards. The objective of the game is to get rid of all your cards by successfully bluffing or "cheating" your way through the rounds.
 
-## Tech Stack:
+## Tech Stack
 
 - TDD with Cypress
 - Web Sockets with Socket.IO
